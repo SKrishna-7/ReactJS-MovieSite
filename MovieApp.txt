@@ -1,0 +1,16 @@
+api_key=6f5f64ef17d8caf9df73f52bab2946a7
+
+Base URL for ////poster
+https://image.tmdb.org/t/p/
+Netflix Logo =>https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.svg
+
+
+
+
+
+
+
+
+
+---------------------------------
+https://developers.themoviedb.org/3/discover/movie-discover

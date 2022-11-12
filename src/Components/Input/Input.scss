@@ -1,0 +1,12 @@
+@use '../../Scss/'as *;
+
+input{
+    border: 0;
+    // width: 300px;
+    background-color: $black;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    color:$txt-color;
+    font-family: $font-family;
+    border-radius: $border-radius;
+}

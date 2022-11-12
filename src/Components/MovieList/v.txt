@@ -1,0 +1,9 @@
+<div className="movie__list">
+            <div className="list__cards">
+                {
+                    items.map(movie => (
+                        <Card movie={movie} />
+                 ))
+                }
+            </div>
+</div>
